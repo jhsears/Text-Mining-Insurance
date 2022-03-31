@@ -1,4 +1,4 @@
-# Final Project: Text Mining in Insurance
+# Text Mining: Final Project
 
 Your task is to find two interesting products, applications, or tools that make use of text mining techniques that we've learned about in this class. You are expected to describe the application, list what techniques from the class they might be using to produce their result, and explain how those techniques would be used in the product.
 
