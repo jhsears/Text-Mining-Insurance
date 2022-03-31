@@ -11,3 +11,13 @@ Description of the applications chosen
 Plausibility that the techniques you list are used by the applications (you will not be penalized for being wrong, but the techniques have to be possibly part of that product)
 Description of the techniques
 Explanation of how the techniques would be used in the application
+
+# Applications of Text Mining for Insurance Related Products
+
+The insurance industry is one that is increasingly competitive, evolving and adapting. My wife works for 
+an independent, non-profit research firm that gathers data from the entire industry and elsewhere and 
+creates products for their member insurance companies. Their applications of text mining techniques
+are on the rise and include two interesting products that are currently in development. As they are 
+unreleased and proprietary, the readers’ discretion is requested. Due to their sensitive nature, the only 
+request of their project managers was to know the likely inputs and the desired outcomes. These and 
+the plausible techniques incorporated are discussed below for Candidate Sentiment Analysis and Emerging Topic Modeling.
